@@ -1,4 +1,3 @@
-a=23
-#print(f"hello{a}")
-print(f"hello {a}")
-
+value = bool(0)  # False
+print(value)  # Output: False
+print(isinstance(value, bool))  # Output: True
