@@ -40,8 +40,8 @@ Total_cost=cp+cp
 print(f"total amount including price of pizza and toppings:{Total_cost}")
 
 my_file=open('my_files/new_file.txt','a+')
-my_file.write("customer name:prakriti Gurung\n ")
-my_file.write("Total bill:2300\n")
+my_file.write("customer name:prakriti Gurung")
+my_file.write("Total bill:2300")
 my_file.write("purchase date and time:13 july,wednesday")
 my_file.close()
 

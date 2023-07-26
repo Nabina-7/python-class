@@ -11,17 +11,17 @@ for x in range(1,5,1):
         c=a-b
         print(c)
     elif user_input=="*":
-        a=8
-        b=9
+        a=int(input("Enter first number"))
+        b=int(input("Enter second number"))
         c=a*b
         print(c)
     elif user_input=="/":
-        a=78
-        b=2
+        a=int(input("Enter first number"))
+        b=int(input("Enter second number"))
         c=a/b
         print(c)
     elif user_input=="%":
-        a=8
+        a=int(input("Enter first number"))
         b=9
         c=a%b
         print(c)

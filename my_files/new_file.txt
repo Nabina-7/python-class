@@ -1,2 +1,4 @@
 pizza world
-customer name:prakriti GurungTotal bill:950purchase date and time:13 july,wednesday
+customer name:prakriti GurungTotal bill:950purchase date and time:13 july,wednesdaycustomer name:prakriti Gurung
+ Total bill:2300
+purchase date and time:13 july,wednesday
